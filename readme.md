@@ -1,5 +1,5 @@
 # circles-1
 
-Pixi ParticlesContainer play.
+Pixi ParticleContainer play.
 
 ![./screenshot.jpg](./screenshot.jpg)
